@@ -1,0 +1,305 @@
+{
+ "edition": "student, smaller, QR edition (Drive copies) with invisible link annotations over the QR codes (URL exactly as printed, e.g. HTTPS://IOTCLASS.ORG/GO/24YFMK)",
+ "books": [
+  {
+   "book": "01A",
+   "title": "Hello, Smart World!",
+   "file": "01A-Hello-Smart-World-Student-v1.0-Smaller.pdf",
+   "bytes": 31260740,
+   "pages": 71,
+   "stories": 32,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "01B",
+   "title": "Smart Things Everywhere",
+   "file": "01B-Smart-Things-Everywhere-Student-v1.0-Smaller.pdf",
+   "bytes": 37349817,
+   "pages": 81,
+   "stories": 37,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "01C",
+   "title": "The Problem-Solver Club",
+   "file": "01C-The-Problem-Solver-Club-Student-v1.0-Smaller.pdf",
+   "bytes": 36439203,
+   "pages": 81,
+   "stories": 37,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "02A",
+   "title": "The World Noticers",
+   "file": "02A-The-World-Noticers-Student-v1.0-Smaller.pdf",
+   "bytes": 21018634,
+   "pages": 51,
+   "stories": 22,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "02B",
+   "title": "Tiny Circuits, Big Moves",
+   "file": "02B-Tiny-Circuits-Big-Moves-Student-v1.0-Smaller.pdf",
+   "bytes": 9938107,
+   "pages": 27,
+   "stories": 10,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "02C",
+   "title": "The Sensor Clue Team",
+   "file": "02C-The-Sensor-Clue-Team-Student-v1.0-Smaller.pdf",
+   "bytes": 11496624,
+   "pages": 31,
+   "stories": 12,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "02D",
+   "title": "The Action Maker Lab",
+   "file": "02D-The-Action-Maker-Lab-Student-v1.0-Smaller.pdf",
+   "bytes": 10134751,
+   "pages": 27,
+   "stories": 10,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "03A",
+   "title": "Tiny Computer Club",
+   "file": "03A-Tiny-Computer-Club-Student-v1.0-Smaller.pdf",
+   "bytes": 10936323,
+   "pages": 29,
+   "stories": 11,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "03B",
+   "title": "The Hardware Helper Shelf",
+   "file": "03B-The-Hardware-Helper-Shelf-Student-v1.0-Smaller.pdf",
+   "bytes": 11725891,
+   "pages": 29,
+   "stories": 11,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "03C",
+   "title": "Firmware in Motion",
+   "file": "03C-Firmware-in-Motion-Student-v1.0-Smaller.pdf",
+   "bytes": 12560127,
+   "pages": 31,
+   "stories": 12,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "03D",
+   "title": "The Embedded Job Map",
+   "file": "03D-The-Embedded-Job-Map-Student-v1.0-Smaller.pdf",
+   "bytes": 12766981,
+   "pages": 31,
+   "stories": 12,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "04A",
+   "title": "Message Mission",
+   "file": "04A-Message-Mission-Student-v1.0-Smaller.pdf",
+   "bytes": 29660265,
+   "pages": 73,
+   "stories": 33,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "04B",
+   "title": "The Talking Rules",
+   "file": "04B-The-Talking-Rules-Student-v1.0-Smaller.pdf",
+   "bytes": 31726493,
+   "pages": 73,
+   "stories": 33,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "04C",
+   "title": "Message Rescue",
+   "file": "04C-Message-Rescue-Student-v1.0-Smaller.pdf",
+   "bytes": 9976178,
+   "pages": 27,
+   "stories": 10,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "04D",
+   "title": "Wires at Work",
+   "file": "04D-Wires-at-Work-Student-v1.0-Smaller.pdf",
+   "bytes": 9821743,
+   "pages": 27,
+   "stories": 10,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "05A",
+   "title": "Nearby Signals",
+   "file": "05A-Nearby-Signals-Student-v1.0-Smaller.pdf",
+   "bytes": 14686326,
+   "pages": 37,
+   "stories": 15,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "05B",
+   "title": "Nearby Signals",
+   "file": "05B-Nearby-Signals-Student-v1.0-Smaller.pdf",
+   "bytes": 12134941,
+   "pages": 31,
+   "stories": 12,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "05C",
+   "title": "Wi-Fi Clubhouse",
+   "file": "05C-Wi-Fi-Clubhouse-Student-v1.0-Smaller.pdf",
+   "bytes": 14348368,
+   "pages": 37,
+   "stories": 15,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "05D",
+   "title": "Mesh Team Rescue",
+   "file": "05D-Mesh-Team-Rescue-Student-v1.0-Smaller.pdf",
+   "bytes": 15257523,
+   "pages": 37,
+   "stories": 15,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "05E",
+   "title": "The Radio Choice Quest",
+   "file": "05E-The-Radio-Choice-Quest-Student-v1.0-Smaller.pdf",
+   "bytes": 16803003,
+   "pages": 37,
+   "stories": 15,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06A",
+   "title": "The Big IoT Map",
+   "file": "06A-The-Big-IoT-Map-Student-v1.0-Smaller.pdf",
+   "bytes": 16253784,
+   "pages": 39,
+   "stories": 16,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06B",
+   "title": "The Gateway Bridge",
+   "file": "06B-The-Gateway-Bridge-Student-v1.0-Smaller.pdf",
+   "bytes": 16545086,
+   "pages": 39,
+   "stories": 16,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06C",
+   "title": "Edge, Cloud, Go!",
+   "file": "06C-Edge-Cloud-Go-Student-v1.0-Smaller.pdf",
+   "bytes": 16414204,
+   "pages": 39,
+   "stories": 16,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06D",
+   "title": "Platform Workshop",
+   "file": "06D-Platform-Workshop-Student-v1.0-Smaller.pdf",
+   "bytes": 16588396,
+   "pages": 39,
+   "stories": 16,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06E",
+   "title": "Things Speak Together",
+   "file": "06E-Things-Speak-Together-Student-v1.0-Smaller.pdf",
+   "bytes": 16280165,
+   "pages": 39,
+   "stories": 16,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06F",
+   "title": "Sensor Net Quest",
+   "file": "06F-Sensor-Net-Quest-Student-v1.0-Smaller.pdf",
+   "bytes": 15880703,
+   "pages": 37,
+   "stories": 15,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "06G",
+   "title": "Control Loop Crew",
+   "file": "06G-Control-Loop-Crew-Student-v1.0-Smaller.pdf",
+   "bytes": 12650746,
+   "pages": 33,
+   "stories": 13,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "07A",
+   "title": "The Data Trail",
+   "file": "07A-The-Data-Trail-Student-v1.0-Smaller.pdf",
+   "bytes": 13837848,
+   "pages": 33,
+   "stories": 13,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "07B",
+   "title": "The Reading River",
+   "file": "07B-The-Reading-River-Student-v1.0-Smaller.pdf",
+   "bytes": 13866953,
+   "pages": 33,
+   "stories": 13,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  },
+  {
+   "book": "07C",
+   "title": "Data Quality Detectives",
+   "file": "07C-Data-Quality-Detectives-Student-v1.0-Smaller.pdf",
+   "bytes": 17015660,
+   "pages": 39,
+   "stories": 16,
+   "story_finder_page": 6,
+   "first_storyboard_page": 7
+  }
+ ]
+}
